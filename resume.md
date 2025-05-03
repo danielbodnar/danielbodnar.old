@@ -1,6 +1,16 @@
-# About Me: Leveraging Cognitive Strengths for Technological Innovation
+# Daniel Bodnar's Professional Portfolio
+
+## SRE / Infrastructure Engineer / Solutions Architect / Linux Evangelist
+
+[About Me](about.md) | [Experience](experience.md) | [Skills](skills.md) | [Projects](projects.md) | [Contact](contact.md)
+
+Welcome to my professional portfolio. I'm a highly motivated, self-taught engineer with over 23 years of experience in full-stack software development and 18+ years in Platform/Infrastructure engineering and IT automation.
+
+## About Me: Leveraging Cognitive Strengths for Technological Innovation
 
 As a self-taught expert in the IT sector, I bring to the table a unique combination of extensive hands-on experience and an innate ability for abstract thinking. My professional journey, spanning over two decades, is defined not just by the accumulation of technical skills, but by the development of a powerful mental framework that allows me to dissect, analyze, and solve complex technological challenges with exceptional efficiency.
+
+[Read more about my problem-solving approach](#problem-solving-approach)
 
 ## Problem-Solving Approach
 
@@ -8,15 +18,22 @@ The foundation of my problem-solving approach is built on a specific cognitive s
 
 1. **Analytical Thinking**: My primary cognitive function drives me to understand the core principles and logical structures of systems. This allows me to build comprehensive mental models of technological ecosystems, facilitating deep understanding and effective problem-solving.
 
+   *Example: At [BitBuilder Cloud](experience.md#bitbuilder-cloud-llc), I single-handedly built core services on custom bare metal servers, demonstrating my ability to understand and implement complex systems.*
+
 2. **Innovative Ideation**: Complementing my analytical skills is a strong ability to generate multiple possibilities and identify non-obvious connections between different concepts. This combination of analytical depth and creative breadth is crucial for developing innovative solutions in complex technological environments.
+
+   *Example: At [RSVP & ACT, Inc](experience.md#rsvp--act-inc), I architected and deployed dynamically scaling, secure, and fully version-controlled hybrid and bare-metal kubernetes clusters, showcasing my innovative approach to infrastructure management.*
 
 3. **Information Processing**: Similar to advanced AI systems, I have the ability to quickly absorb and process large amounts of information. This data is then organized into a well-structured internal knowledge base, which I can efficiently access and utilize when faced with new challenges.
 
+   *Example: Throughout my career, I've consistently demonstrated the ability to quickly learn and implement new technologies, as evidenced by my [diverse skill set](skills.md).*
+
 4. **Adaptive Problem-Solving**: My approach to problem-solving goes beyond applying pre-existing solutions. I excel at synthesizing new approaches by recombining and extrapolating from known principles, allowing me to adapt quickly to new technological paradigms and methodologies.
 
-[View my professional experience](/experience) | [Check out my skills](/skills) | [See my projects](/projects)
+   *Example: At [AT&T Corp](experience.md#att-corp), I led a team-wide migration from a rails/mysql stack to node.js, angular.js, and mongodb, demonstrating my ability to adapt to and implement new technologies.*
 
-# Professional Experience
+
+## Professional Experience
 
 ## BitBuilder Cloud, LLC
 **Founder, Cloud Architect, CIO** | June 2021 - Current
@@ -60,9 +77,7 @@ Key Responsibilities and Achievements:
 - Engineered a docker-based devops and deployment pipeline
 - Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline
 
-[Back to About Me](/about) | [View my skills](/skills)
-
-# Skills & Expertise
+## Skills & Expertise
 
 My diverse skill set reflects my ability to quickly learn and adapt to new technologies:
 
@@ -74,21 +89,29 @@ My diverse skill set reflects my ability to quickly learn and adapt to new techn
 - **Security**: Wazuh, OpenVAS, Nessus, Trivy, Vuls.io, Wireguard, Teleport
 - **Networking**: VPN, VLAN, InfiniBand, Ethernet
 
-[Back to About Me](/about) | [View my experience](/experience)
 # Projects
 
 Here are some notable projects that showcase my skills and problem-solving approach:
 
-1. **BitBuilder Cloud Platform**: A vendor-agnostic, e2e encrypted, highly-available & globally distributed hyper-converged platform. [Learn more](/experience#bitbuilder-cloud-llc)
+1. **BitBuilder Cloud Platform**: A vendor-agnostic, e2e encrypted, highly-available & globally distributed hyper-converged platform. [Learn more](experience.md#bitbuilder-cloud-llc)
 
-2. **Large-Scale Database Management**: Managed and optimized a +3.5TB PostgreSQL database cluster. [Learn more](/experience#rsvp--act-inc)
+2. **Large-Scale Database Management**: Managed and optimized a +3.5TB PostgreSQL database cluster. [Learn more](experience.md#rsvp--act-inc)
 
-3. **Kubernetes Cluster Architecture**: Designed and implemented dynamically scaling, secure, and fully version-controlled hybrid and bare-metal kubernetes clusters. [Learn more](/experience#rsvp--act-inc)
+3. **Kubernetes Cluster Architecture**: Designed and implemented dynamically scaling, secure, and fully version-controlled hybrid and bare-metal kubernetes clusters. [Learn more](experience.md#rsvp--act-inc)
 
-4. **Legacy Application Modernization**: Developed a plan to modernize a legacy monolithic .NET 3.5 application into 18 modern department & role-based portals. [Learn more](/experience#perspectivesorg)
+4. **Legacy Application Modernization**: Developed a plan to modernize a legacy monolithic .NET 3.5 application into 18 modern department & role-based portals. [Learn more](experience.md#perspectivesorg)
 
-5. **DRM-Secured Video Player**: Built a DRM-secured offline-enabled streaming video player desktop app in Go. [Learn more](/experience#perspectivesorg)
+5. **DRM-Secured Video Player**: Built a DRM-secured offline-enabled streaming video player desktop app in Go. [Learn more](experience.md#perspectivesorg)
 
-6. **Order Status Microservice**: Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline. [Learn more](/experience#att-corp)
+6. **Order Status Microservice**: Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline. [Learn more](experience.md#att-corp)
 
-[Back to About Me](/about) | [View my skills](/skills)
+## Contact Information
+
+Feel free to reach out to me for professional inquiries:
+
+- **Email**: daniel.bodnar@gmail.com
+- **Phone**: (260) 348-8789
+- **LinkedIn**: [Your LinkedIn Profile URL]
+- **GitHub**: [Your GitHub Profile URL]
+
+I'm always open to discussing new opportunities, collaborations, or just engaging in interesting tech conversations!
