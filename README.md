@@ -1,11 +1,6 @@
 # Daniel Bodnar
 ### SRE / Infrastructure Engineer / Solutions Architect / Linux Evangelist
 
-<p align="left">
-  <a href="https://github.com/danielbodnar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Add your LinkedIn URL here -->
-  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
-</p>
 
 Highly motivated, driven, and self-taught engineer with 27+ years of experience. I approach technology through the lens of the Unix Philosophy, focusing on creating robust, scalable, and efficient systems. My passion lies in identifying game-changing technologies early and applying them to solve real-world problems.
 
