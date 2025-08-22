@@ -1,94 +1,96 @@
-# About Me: Leveraging Cognitive Strengths for Technological Innovation
+# Daniel Bodnar
+### SRE / Infrastructure Engineer / Solutions Architect / Linux Evangelist
 
-As a self-taught expert in the IT sector, I bring to the table a unique combination of extensive hands-on experience and an innate ability for abstract thinking. My professional journey, spanning over two decades, is defined not just by the accumulation of technical skills, but by the development of a powerful mental framework that allows me to dissect, analyze, and solve complex technological challenges with exceptional efficiency.
+<p align="left">
+  <a href="https://github.com/danielbodnar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- Add your LinkedIn URL here -->
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+</p>
 
-## Problem-Solving Approach
+Highly motivated, driven, and self-taught engineer with 27+ years of experience. I approach technology through the lens of the Unix Philosophy, focusing on creating robust, scalable, and efficient systems. My passion lies in identifying game-changing technologies early and applying them to solve real-world problems.
 
-The foundation of my problem-solving approach is built on a specific cognitive structure (often referred to as Ti-Ne-Si-Fe in personality theory). This cognitive stack enables me to excel in several key areas:
+---
 
-1. **Analytical Thinking**: My primary cognitive function drives me to understand the core principles and logical structures of systems. This allows me to build comprehensive mental models of technological ecosystems, facilitating deep understanding and effective problem-solving.
+## 🚀 My Tech Stack
 
-2. **Innovative Ideation**: Complementing my analytical skills is a strong ability to generate multiple possibilities and identify non-obvious connections between different concepts. This combination of analytical depth and creative breadth is crucial for developing innovative solutions in complex technological environments.
+I have a deep understanding of the technology landscape, from low-level kernel optimizations to high-level system architecture. Here are some of the technologies I prefer and have mastered.
 
-3. **Information Processing**: Similar to advanced AI systems, I have the ability to quickly absorb and process large amounts of information. This data is then organized into a well-structured internal knowledge base, which I can efficiently access and utilize when faced with new challenges.
+**Languages & Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+</p>
 
-4. **Adaptive Problem-Solving**: My approach to problem-solving goes beyond applying pre-existing solutions. I excel at synthesizing new approaches by recombining and extrapolating from known principles, allowing me to adapt quickly to new technological paradigms and methodologies.
+**Infrastructure & DevOps:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
 
-[View my professional experience](/experience) | [Check out my skills](/skills) | [See my projects](/projects)
+**Databases & Networking:**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
+  <img src="https://img.shields.io/badge/Tailscale-4c4c4c?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale"/>
+</p>
 
-# Professional Experience
+---
 
-## BitBuilder Cloud, LLC
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielbodnar&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbodnar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏢 Professional Experience
+
+### Fidelity Investments
+**Principal Software, DevOps, and Cloud Engineer** | July 2023 - Current
+- Architected comprehensive AWS solutions for enterprise applications.
+- Developed and implemented robust IAM policies and CloudFormation templates.
+- Engineered Kubernetes-based deployment solutions using EKS and Helm.
+- Rebuilt and optimized the Jenkins Core platform, increasing build efficiency.
+
+### BitBuilder Cloud, LLC
 **Founder, Cloud Architect, CIO** | June 2021 - Current
+- Launched a private SaaS hosting and consulting company.
+- Built a globally distributed, hyper-converged platform on custom bare-metal servers.
+- Orchestrated global scaling via a multi-cloud hybrid layer with a custom k8s distribution.
 
-Launched a Cloud Hosting and Consulting private SASS company with a focus on providing a vendor-agnostic, e2e encrypted, highly-available & globally distributed hyper-converged platform for cost-efficient resiliency against hostile attackers, organizations, and countries.
-
-Key Achievements:
-- Launched a web hosting and cloud consulting private SASS company using 5 highly customized AMD & Dell based co-located servers
-- Containerized and load-balanced several high-profile organizations with 1M+ global visitors/day
-- Single-handedly built core services on co-located custom bare metal 3rd-gen AMD-based servers with over 2TB RAM, 320 cores, 64TB enterprise-grade NVMe storage, and quad-port 25Gb/s ethernet + dual-port 100Gbe mellanox connectx-5 (OCP) NICs
-- Orchestrated global scaling via a multi-cloud hybrid overlay layer based on custom k8s distribution and buildroot and WolfiOS (alpine-based) immutable linux operating systems
-- Implemented constant monitoring and observability using Grafana, Prometheus, VictoriaMetrics, NetData, Jaeger
-
-## RSVP & ACT, Inc
+### RSVP & ACT, Inc
 **SRE, SysAdmin, and Platforms Engineer** | April 2019 - June 2021
+- Managed and performance-tuned a +3.5TB PostgreSQL database cluster.
+- Architected and deployed dynamically scaling, secure Kubernetes clusters.
+- Implemented and enforced GitOps-based Infrastructure-as-Code procedures.
 
-Key Responsibilities and Achievements:
-- Managed and performance-tuned +3.5TB postgresql database cluster, MySql and SQLite databases
-- Architected, deployed, and managed dynamically scaling, secure, and fully version-controlled hybrid and bare-metal kubernetes clusters
-- Deployed and managed self-hosted gitlab instance with DevOps build pipelines and automatic blue-green deployments
-- Implemented monitoring, alerting, logging, tracing, and observability tools
-- Implemented and enforced gitlab-based Infrastructure-as-Code procedures and pipelines
-- Deployed and managed multiple host, network, and container security tools and vulnerability scanners
+*(For a more detailed experience history, please see my full resume or LinkedIn profile.)*
 
-## Perspectives.org
-**IT Director** | Jan 2018 - April 2019
+---
 
-Key Achievements:
-- Developed 5 year vision, roadmap, and project plan to rebuild legacy monolithic .NET 3.5 application
-- Increased cloud hosting capacity by 10x while reducing budget by 50%
-- Reduced minimum page load time from 5 sec to an avg of 0.8s
-- Built a DRM-secured offline-enabled streaming video player desktop app in Go
+## 🤔 How I Think & Work
 
-## AT&T Corp.
-**Professional Application Developer** | Mar 2014 - Jun 2017
+My problem-solving approach is defined by a drive to understand systems at their core (Ti-Ne-Si-Fe/INTP). This allows me to build comprehensive mental models of technology, see non-obvious connections, and generate creative, efficient solutions.
 
-Key Responsibilities and Achievements:
-- Full stack application engineer building custom web-based tools and services
-- Managed entire project pipeline, from requirements gathering to production deployment
-- Led team-wide migration from rails/mysql stack to node.js, angular.js, and mongodb
-- Engineered a docker-based devops and deployment pipeline
-- Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline
+- **What I Bring to Teams:** Rapidly understanding complex systems, spotting potential problems early, and optimizing systems in real-time.
+- **What I Need from Teams:** Freedom to innovate, structure around execution, and an appreciation for strategic optimizations.
+- **Ideal Environment:** R&D, Systems Architecture, and complex problem-solving roles where I can tackle intellectual challenges with minimal bureaucracy.
 
-[Back to About Me](/about) | [View my skills](/skills)
+---
 
-# Skills & Expertise
+## 📞 Get in Touch
 
-My diverse skill set reflects my ability to quickly learn and adapt to new technologies:
-
-- **Cloud Architecture**: AWS, GCP, DO, Vultr, Cloudflare, Bunny.net, Wasabi, GitLab
-- **Infrastructure**: Kubernetes, Docker, Proxmox, ZFS, Ansible, Terraform
-- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
-- **Programming Languages**: Go, Python, Node.js, Bash
-- **Monitoring & Observability**: Grafana, Prometheus, VictoriaMetrics, NetData, Jaeger, ELK, Zabbix
-- **Security**: Wazuh, OpenVAS, Nessus, Trivy, Vuls.io, Wireguard, Teleport
-- **Networking**: VPN, VLAN, InfiniBand, Ethernet
-
-[Back to About Me](/about) | [View my experience](/experience)
-# Projects
-
-Here are some notable projects that showcase my skills and problem-solving approach:
-
-1. **BitBuilder Cloud Platform**: A vendor-agnostic, e2e encrypted, highly-available & globally distributed hyper-converged platform. [Learn more](/experience#bitbuilder-cloud-llc)
-
-2. **Large-Scale Database Management**: Managed and optimized a +3.5TB PostgreSQL database cluster. [Learn more](/experience#rsvp--act-inc)
-
-3. **Kubernetes Cluster Architecture**: Designed and implemented dynamically scaling, secure, and fully version-controlled hybrid and bare-metal kubernetes clusters. [Learn more](/experience#rsvp--act-inc)
-
-4. **Legacy Application Modernization**: Developed a plan to modernize a legacy monolithic .NET 3.5 application into 18 modern department & role-based portals. [Learn more](/experience#perspectivesorg)
-
-5. **DRM-Secured Video Player**: Built a DRM-secured offline-enabled streaming video player desktop app in Go. [Learn more](/experience#perspectivesorg)
-
-6. **Order Status Microservice**: Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline. [Learn more](/experience#att-corp)
-
-[Back to About Me](/about) | [View my skills](/skills)
+I'm always open to discussing new opportunities, collaborations, or just engaging in interesting tech conversations! Please feel free to connect with me on GitHub or other platforms.
