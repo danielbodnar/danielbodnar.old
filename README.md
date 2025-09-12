@@ -12,7 +12,7 @@
 
 ## 📝 Executive Summary
 
-Highly motivated, driven, and completely self-taught engineer with **27+ years** experience as a full-stack software developer (since 1996) and over **18 years** of Platform/Infrastructure engineering and IT automation. Passionate about Linux, containerization, and building scalable, highly available, robust, automated systems.  I love identifying game-changing technologies early and applying them to solve real-world problems.
+Highly motivated, driven, and completely self-taught engineer with **28+ years** experience as a full-stack software developer (since 1996) and over **20 years** of Platform/Infrastructure engineering and IT automation. Passionate about Linux, containerization, and building scalable, highly available, robust, automated systems.  I love identifying game-changing technologies early and applying them to solve real-world problems.
 
 I come alive when allowed to automate repetitive tasks and thrive in continually evolving environments of frequent change. The flip side is without problems to solve and challenges to overcome, I tend to struggle with what value I bring to a company or team.
 
