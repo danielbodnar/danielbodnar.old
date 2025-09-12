@@ -1,6 +1,9 @@
 # Daniel Bodnar
 
-## SRE / Infrastructure Engineer / Solutions Architect / Linux Evangelist
+> [!TIP]
+> Solutions Architect Specialist / Site Reliability Engineer / Platform & Infrastructure Engineer / Linux Evangelist
+
+## Solutions Architect Specialist / Site Reliability Engineer / Platform & Infrastructure Engineer / Linux Evangelist
 
 Highly motivated, driven, and completely self-taught engineer with 27+ years experience as a full-stack software developer (since 1996) and over 18 years of Platform/Infrastructure engineering and IT automation.
 
@@ -65,7 +68,7 @@ My career spans multiple domains across the technology stack, reflecting my abil
 ### Infrastructure & Platform Engineering
 
 - **Linux Systems Engineering**: Cloud-native and embedded Linux systems optimization and management
-- **Infrastructure as Code**: Declarative provisioning and configuration management\
+- **Infrastructure as Code**: Declarative provisioning and configuration management
 - **Datacenter Architecture**: Bare-metal server optimization, hypervisor orchestration, SANs
 - **Container Orchestration**: Container runtime management, Kubernetes ecosystem expertise
 - **Cloud Architecture**: Multi-cloud strategy, hybrid cloud deployments, cloud cost optimization
