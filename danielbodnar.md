@@ -1,6 +1,4 @@
-::: {align="center"}
-
-# 👋 Hi, I'm Daniel
+# Systems Architect & Strategic Problem Solver (Ti-Ne-Si-Fe)
 
 ### Systems Architect & Strategic Problem Solver (Ti-Ne-Si-Fe)
 
