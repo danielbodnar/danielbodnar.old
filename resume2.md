@@ -46,7 +46,6 @@ Launched a Cloud Hosting and Consulting private SaaS company with a focus on pro
 - Orchestrated global scaling via a multi-cloud hybrid overlay layer based on custom k8s distribution and buildroot and WolfiOS (alpine-based) immutable linux operating systems
 - Implemented constant monitoring and observability using Grafana, Prometheus, VictoriaMetrics, NetData, Jaeger
 
-
 ### Fidelity Investments
 
 **Principal Software, DevOps, and Cloud Engineer** | July 2023 - May 2025
@@ -65,7 +64,6 @@ Serve as a technical leader and cloud architect, designing and implementing ente
 - Implemented infrastructure-as-code practices across multiple teams, significantly reducing configuration drift and deployment errors
 - Designed and implemented automated security scanning and compliance checking within CI/CD pipelines
 - Led knowledge-sharing sessions and developed documentation to elevate team capabilities in cloud-native technologies
-
 
 ### RSVP & ACT, Inc
 
@@ -89,13 +87,24 @@ Serve as a technical leader and cloud architect, designing and implementing ente
 
 **IT Director** | Jan 2018 - April 2019
 
-**Key Achievements:** - Developed 5 year vision, roadmap, and project plan to rebuild legacy monolithic .NET 3.5 application - Increased cloud hosting capacity by 10x while reducing budget by 50% - Reduced minimum page load time from 5 sec to an avg of 0.8s - Built a DRM-secured offline-enabled streaming video player desktop app in Go
+**Key Achievements:**
+
+- Developed 5 year vision, roadmap, and project plan to rebuild legacy monolithic .NET 3.5 application
+- Increased cloud hosting capacity by 10x while reducing budget by 50%
+- Reduced minimum page load time from 5 sec to an avg of 0.8s
+- Built a DRM-secured offline-enabled streaming video player desktop app in Go
 
 ### AT&T Corp
 
 **Professional Application Developer** | Mar 2014 - Jun 2017
 
-**Key Responsibilities and Achievements:** - Full stack application engineer building custom web-based tools and services - Managed entire project pipeline, from requirements gathering to production deployment - Led team-wide migration from rails/mysql stack to node.js, angular.js, and mongodb - Engineered a docker-based devops and deployment pipeline - Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline
+**Key Responsibilities and Achievements:**
+
+- Full stack application engineer building custom web-based tools and services
+- Managed entire project pipeline, from requirements gathering to production deployment
+- Led team-wide migration from rails/mysql stack to node.js, angular.js, and mongodb
+- Engineered a docker-based devops and deployment pipeline
+- Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline
 
 ------------------------------------------------------------------------
 
