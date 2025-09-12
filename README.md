@@ -4,7 +4,7 @@
 
 ### 🚀 Solutions Architect • Site Reliability Engineer • Platform & Infrastructure Engineer • Linux Evangelist
 
-[![Email](https://img.shields.io/badge/Email-daniel.bodnar%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:daniel.bodnar@gmail.com) [![Phone](https://img.shields.io/badge/Phone-(260)%20348--8789-green?style=flat-square&logo=whatsapp)](tel:+12603488789) [![Website](https://img.shields.io/badge/Website-daniel.bodnar.sh-orange?style=flat-square&logo=firefox)](https://daniel.bodnar.sh) [![GitHub](https://img.shields.io/badge/GitHub-danielbodnar-black?style=flat-square&logo=github)](https://github.com/danielbodnar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielbodnar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/danielbodnar)
+[![Website](https://img.shields.io/badge/Website-daniel.bodnar.sh-orange?style=flat-square&logo=firefox)](https://daniel.bodnar.sh) [![GitHub](https://img.shields.io/badge/GitHub-danielbodnar-black?style=flat-square&logo=github)](https://github.com/danielbodnar)
 
 </div>
 
@@ -400,11 +400,8 @@ My problem-solving approach is built on a specific cognitive structure that enab
 <div align="center">
 
 **Let's Connect and Build Something Amazing Together!**
-
-📧 **Email:** [daniel.bodnar@gmail.com](mailto:daniel.bodnar@gmail.com) | [daniel@bodnar.sh](mailto:daniel@bodnar.sh)  
-📱 **Phone:** [(260) 348-8789](tel:+12603488789)  
-🌐 **Website:** [daniel.bodnar.sh](https://daniel.bodnar.sh)  
-💼 **LinkedIn:** [linkedin.com/in/danielbodnar](https://linkedin.com/in/danielbodnar)  
+   
+🌐 **Website:** [daniel.bodnar.sh](https://daniel.bodnar.sh)
 🐙 **GitHub:** [github.com/danielbodnar](https://github.com/danielbodnar)  
 🐦 **Twitter:** [@danielbodnar](https://twitter.com/danielbodnar)
 
