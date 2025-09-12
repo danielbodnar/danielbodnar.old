@@ -208,7 +208,7 @@ Serve as a technical leader and cloud architect, designing and implementing ente
 - **Time-Series:** InfluxDB, TimescaleDB, Prometheus
 - **Analytics:** DuckDB, ClickHouse
 
-#### **👨‍💻 Programming Languages**
+#### **👨💻 Programming Languages**
 - **Primary:** Go, Rust, JavaScript/TypeScript, Python, Bash/Shell
 - **Secondary:** Lua, C/C++, Java, Ruby
 - **Preferred Shell:** NuShell, Zsh, Bash
@@ -307,8 +307,8 @@ I approach technology through the lens of the **Unix Philosophy** and principles
 
 ### 🚀 Career Highlights
 
-- **27+ Years** in software development (since 1996)
-- **18+ Years** in Platform/Infrastructure engineering
+- **28+ Years** in software development (since 1996)
+- **20+ Years** in Platform/Infrastructure engineering
 - **Full-Stack Versatility:** Experience spanning multiple technology generations
 - **Self-Taught Expert:** Completely self-directed learning and skill development
 - **Early Innovation Adopter:** Track record of identifying transformative technologies
