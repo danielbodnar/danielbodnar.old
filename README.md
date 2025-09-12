@@ -25,6 +25,26 @@ I come alive when allowed to automate repetitive tasks and thrive in continually
 
 **🔭 Seeking:** Growth opportunities related to low-level Linux, distributed cloud infrastructure, networking, embedded / hardware development, and cloud-native technologies.
 
+------------------------------------------------------------------------
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=danielbodnar&amp;theme=radical&amp;row=1&amp;column=6" alt="trophy"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielbodnar&amp;theme=radical" alt="streak"/>
+
+</p>
+
+------------------------------------------------------------------------
+
+"The best way to predict the future is to invent it." - Alan Kay
+
+"The important thing is not to stop questioning. Curiosity has its own reason for existence." - Albert Einstein
+
 ---
 
 ## 🌟 Professional Philosophy
