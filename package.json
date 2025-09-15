@@ -12,10 +12,8 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@nuxt/eslint": "latest",
-    "@nuxt/image": "^1.8.1",
-    "eslint": "^9.11.0",
-    "nuxt": "^3.13.0",
+    "@types/bun": "latest",
+    "nuxt": "^4.0.0",
     "typescript": "^5.6.2",
     "vue": "latest"
   },
