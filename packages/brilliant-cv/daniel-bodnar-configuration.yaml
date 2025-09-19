@@ -1,0 +1,212 @@
+contacts:
+  name: Daniel Bodnar
+  title: Solutions Architect • Site Reliability Engineer • Platform & Infrastructure Engineer • Linux Evangelist
+  email: contact@danielbodnar.com
+  address: "USA"
+  location: USA
+  linkedin:
+    url: https://www.linkedin.com/in/daniel-bodnar/
+    displayText: daniel-bodnar
+  github:
+    url: https://github.com/danielbodnar/
+    displayText: "@danielbodnar"
+  website:
+    url: https://danielbodnar.com
+    displayText: www.danielbodnar.com
+
+position: Solutions Architect • Site Reliability Engineer • Platform & Infrastructure Engineer • Linux Evangelist
+
+tagline: Self-taught expert in the IT sector with a unique combination of extensive hands-on experience and innate ability for abstract thinking. Professional journey spanning over two decades, defined by the development of a powerful mental framework that enables dissecting, analyzing, and solving complex technological challenges with exceptional efficiency.
+
+jobs:
+  - position: Founder, Cloud Architect, CIO
+    company:
+      name: BitBuilder Cloud, LLC
+      link: https://bitbuilder.cloud/
+    product:
+      name: BitBuilder Cloud Platform
+      link: https://bitbuilder.cloud/platform
+    description:
+      - Launched a web hosting and cloud consulting private SAAS company using 5 highly customized AMD & Dell based co-located servers
+      - Containerized and load-balanced several high-profile organizations with 1M+ global visitors/day
+      - Single-handedly built core services on co-located custom bare metal 3rd-gen AMD-based servers with over 2TB RAM, 320 cores, 64TB enterprise-grade NVMe storage
+      - Configured quad-port 25Gb/s ethernet + dual-port 100Gbe mellanox connectx-5 (OCP) NICs
+      - Orchestrated global scaling via a multi-cloud hybrid overlay layer based on custom k8s distribution and buildroot and WolfiOS (alpine-based) immutable linux operating systems
+      - Implemented constant monitoring and observability using Grafana, Prometheus, VictoriaMetrics, NetData, Jaeger
+    from: "2021 Jun."
+    to: "present"
+    tags:
+      - Cloud Architecture
+      - Kubernetes
+      - Infrastructure Design
+      - Observability
+      - Performance Engineering
+    location: USA
+  - position: SRE, SysAdmin, and Platforms Engineer
+    company:
+      name: RSVP & ACT, Inc
+      link: https://rsvpact.com/
+    product:
+      name: RSVP Platform
+      link: https://rsvpact.com/platform
+    description:
+      - Managed and performance-tuned +3.5TB postgresql database cluster, MySql and SQLite databases
+      - Architected, deployed, and managed dynamically scaling, secure, and fully version-controlled hybrid and bare-metal kubernetes clusters
+      - Deployed and managed self-hosted gitlab instance with DevOps build pipelines and automatic blue-green deployments
+      - Implemented monitoring, alerting, logging, tracing, and observability tools
+      - Implemented and enforced gitlab-based Infrastructure-as-Code procedures and pipelines
+      - Deployed and managed multiple host, network, and container security tools and vulnerability scanners
+    from: "2019 Apr."
+    to: "2021 Jun."
+    tags:
+      - Site Reliability Engineering
+      - Database Administration
+      - DevOps
+      - Infrastructure as Code
+      - Security
+    location: USA
+  - position: IT Director
+    company:
+      name: Perspectives.org
+      link: https://perspectives.org/
+    product:
+      name: Educational Platform
+      link: https://perspectives.org/
+    description:
+      - Developed 5 year vision, roadmap, and project plan to rebuild legacy monolithic .NET 3.5 application
+      - Increased cloud hosting capacity by 10x while reducing budget by 50%
+      - Reduced minimum page load time from 5 sec to an avg of 0.8s
+      - Built a DRM-secured offline-enabled streaming video player desktop app in Go
+    from: "2018 Jan."
+    to: "2019 Apr."
+    tags:
+      - IT Leadership
+      - Application Modernization
+      - Performance Optimization
+      - Go Development
+    location: USA
+  - position: Professional Application Developer
+    company:
+      name: AT&T Corp.
+      link: https://att.com/
+    product:
+      name: Order Status System
+      link: https://att.com/
+    description:
+      - Full stack application engineer building custom web-based tools and services
+      - Managed entire project pipeline, from requirements gathering to production deployment
+      - Led team-wide migration from rails/mysql stack to node.js, angular.js, and mongodb
+      - Engineered a docker-based devops and deployment pipeline
+      - Architected and built a large-scale external "Order Status" application and a decoupled "microservice" pipeline
+    from: "2014 Mar."
+    to: "2017 Jun."
+    tags:
+      - Full Stack Development
+      - System Architecture
+      - Team Leadership
+      - Migration Planning
+      - Microservices
+    location: USA
+
+objective: Seeking to leverage 20+ years of experience in solving complex technological challenges and building scalable infrastructure solutions for organizations that value innovation, technical excellence, and continuous improvement.
+
+education:
+  - place:
+      name: Self-Taught Professional Development
+      link: ""
+    degree: "Continuous Learning"
+    major: Information Technology
+    track: Infrastructure & Software Engineering
+    from: "2003"
+    to: "present"
+    location: USA
+
+technical_expertise:
+  - name: Kubernetes
+    level: 5
+  - name: Docker
+    level: 5
+  - name: PostgreSQL
+    level: 5
+  - name: Go
+    level: 4
+  - name: Python
+    level: 4
+  - name: Bash
+    level: 5
+  - name: Grafana
+    level: 5
+  - name: Prometheus
+    level: 5
+  - name: AWS
+    level: 5
+  - name: Ansible
+    level: 4
+  - name: Terraform
+    level: 4
+  - name: Proxmox
+    level: 5
+
+skills:
+  - Kubernetes
+  - Docker
+  - PostgreSQL
+  - MySQL
+  - SQLite
+  - MongoDB
+  - Go
+  - Python
+  - Node.js
+  - Bash
+  - AWS
+  - GCP
+  - DigitalOcean
+  - Vultr
+  - Cloudflare
+  - Grafana
+  - Prometheus
+  - VictoriaMetrics
+  - NetData
+  - Jaeger
+  - ELK Stack
+  - Zabbix
+  - Wazuh
+  - OpenVAS
+  - Nessus
+  - Trivy
+  - Wireguard
+  - Teleport
+  - ZFS
+  - Ansible
+  - Terraform
+
+methodology:
+  - Infrastructure as Code
+  - Site Reliability Engineering
+  - DevOps
+  - Continuous Integration/Continuous Deployment
+  - Observability-Driven Development
+  - Performance Engineering
+  - Security-First Architecture
+
+tools:
+  - GitHub
+  - GitLab
+  - Proxmox
+  - Grafana
+  - Prometheus
+  - VictoriaMetrics
+  - NetData
+  - Jaeger
+  - Wazuh
+  - OpenVAS
+  - Terraform
+  - Ansible
+
+achievements:
+  - name: "10x Capacity Increase with 50% Budget Reduction"
+    description: Increased cloud hosting capacity by 10x while reducing budget by 50% at Perspectives.org through strategic infrastructure optimization.
+  - name: "High-Performance Infrastructure Design"
+    description: Built custom bare metal infrastructure with 2TB+ RAM, 320 cores, 64TB NVMe storage, handling 1M+ daily visitors across multiple high-profile organizations.
+  - name: "5-Second to 0.8-Second Page Load Optimization"
+    description: Reduced minimum page load time from 5 seconds to an average of 0.8 seconds through comprehensive performance engineering.
