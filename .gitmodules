@@ -1,0 +1,6 @@
+[submodule "packages/typst/neat-cv"]
+	path = packages/typst/neat-cv
+	url = https://github.com/dialvarezs/neat-cv
+[submodule "packages/typst/vantage-typst"]
+	path = packages/typst/vantage-typst
+	url = https://github.com/sardorml/vantage-typst
