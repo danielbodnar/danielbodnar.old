@@ -1,9 +1,9 @@
-[submodule "packages/typst/neat-cv"]
-	path = packages/typst/neat-cv
-	url = https://github.com/dialvarezs/neat-cv
-[submodule "packages/typst/vantage-typst"]
-	path = packages/typst/vantage-typst
-	url = https://github.com/sardorml/vantage-typst
-[submodule "packages/typst/typst-typographic-resume"]
-	path = packages/typst/typst-typographic-resume
-	url = https://github.com/tsnobip/typst-typographic-resume
+# [submodule "packages/typst/neat-cv"]
+# 	path = packages/typst/neat-cv
+# 	url = https://github.com/dialvarezs/neat-cv
+# [submodule "packages/typst/vantage-typst"]
+# 	path = packages/typst/vantage-typst
+# 	url = https://github.com/sardorml/vantage-typst
+# [submodule "packages/typst/typst-typographic-resume"]
+# 	path = packages/typst/typst-typographic-resume
+# 	url = https://github.com/tsnobip/typst-typographic-resume
