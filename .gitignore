@@ -9,6 +9,7 @@ nuxt.d.ts
 package-lock.json
 framework
 dist
+!dist/typst/pdfs/*.pdf
 .DS_Store
 
 # Yarn
