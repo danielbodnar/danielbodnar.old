@@ -20,7 +20,7 @@
   profession: "Solutions Architect • Site Reliability Engineer • Platform & Infrastructure Engineer",
   bio: [
     Self-taught expert in the IT sector with a unique combination of extensive hands-on experience and innate ability for abstract thinking. Professional journey spanning over two decades, defined by the development of a powerful mental framework that enables dissecting, analyzing, and solving complex technological challenges with exceptional efficiency.],
-  profile-picture: image("../images/profile_pic_example.jpg"),
+  // profile-picture: image("../images/profile_pic_example.jpg"),
   aside: {
     section(
       "Contact",

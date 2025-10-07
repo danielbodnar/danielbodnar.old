@@ -7,16 +7,31 @@
 #cvSection("Skills")
 
 #cvSkill(
-  type: [Languages],
-  info: [English #hBar() French #hBar() Chinese],
+  type: [Cloud & Infrastructure],
+  info: [Kubernetes #hBar() Docker #hBar() AWS #hBar() GCP #hBar() Proxmox #hBar() ZFS],
 )
 
 #cvSkill(
-  type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL],
+  type: [Databases],
+  info: [PostgreSQL #hBar() MySQL #hBar() SQLite #hBar() MongoDB],
 )
 
 #cvSkill(
-  type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading],
+  type: [Programming Languages],
+  info: [Go #hBar() Python #hBar() Node.js #hBar() Bash],
+)
+
+#cvSkill(
+  type: [Monitoring & Observability],
+  info: [Grafana #hBar() Prometheus #hBar() VictoriaMetrics #hBar() NetData #hBar() Jaeger],
+)
+
+#cvSkill(
+  type: [DevOps & Automation],
+  info: [Ansible #hBar() Terraform #hBar() GitLab CI/CD #hBar() Infrastructure as Code],
+)
+
+#cvSkill(
+  type: [Security & Networking],
+  info: [Wazuh #hBar() OpenVAS #hBar() Wireguard #hBar() Teleport #hBar() VLAN],
 )

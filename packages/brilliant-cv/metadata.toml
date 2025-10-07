@@ -47,29 +47,29 @@ language = "en"
 
     # Decide if you want to inject keywords or not
     inject_keywords = true
-    injected_keywords_list = ["Data Analyst", "GCP", "Python", "SQL", "Tableau"]
+    injected_keywords_list = ["Kubernetes", "AWS", "PostgreSQL", "Go", "Python", "SRE", "DevOps", "Infrastructure"]
 
 [personal]
-    first_name = "John"
-    last_name = "Doe"
+    first_name = "Daniel"
+    last_name = "Bodnar"
 
     # The order of this section will affect how the entries are displayed
     # The custom value is for any additional information you want to add, name it as custom-1, custom-2, etc.
     [personal.info]
-        github = "yunanwg"
-        phone = "+33 6 12 34 56 78"
-        email = "john.doe@me.org"
-        linkedin = "johndoe"
+        github = "danielbodnar"
+        phone = ""
+        email = "contact@danielbodnar.com"
+        linkedin = "daniel-bodnar"
         # gitlab = "yunanwg"
-        # homepage = "jd.me.org"
+        homepage = "danielbodnar.com"
         # orcid = "0000-0000-0000-0000"
         # researchgate = "John-Doe"
-        # extraInfo = "I am a cool kid"
+        extraInfo = "Solutions Architect • Site Reliability Engineer • Platform & Infrastructure Engineer • Linux Evangelist"
         [personal.info.custom-1]
             # image = "" # Example: image("./path/to/image.png")
-            awesomeIcon = "graduation-cap" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
-            text = "PhD"
-            link = "https://www.example.com"
+            awesomeIcon = "server" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
+            text = "20+ Years Experience"
+            link = "https://danielbodnar.com"
 
 # add a new section if you want to include the language of your choice
 # i.e. [[lang.ru]]
@@ -80,7 +80,7 @@ language = "en"
     letter_footer = "Anschreiben"
 
 [lang.en]
-    header_quote = "Experienced Data Analyst looking for a full time job starting from now"
+    header_quote = "Self-taught expert in the IT sector with 20+ years of experience solving complex technological challenges"
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 
